@@ -45,7 +45,7 @@ async def ping_handler(client: Client, message: Message):
 ➥ ᴘᴏɴɢ: `{latency:.3f} ms`
 ➥ ᴜᴘᴛɪᴍᴇ: {uptime}
 
-⦿ ᴄʀᴇᴀᴛᴇᴅ ʙʏ [sʜɪᴠᴀɴsʜ-xᴅ](https://t.me/ITSZ_SHIVANSH)**""",
+⦿ ᴄʀᴇᴀᴛᴇᴅ ʙʏ [ 𝐊 𝐀 𝐍 𝐇 Λ](https://t.me/Oyekanhaa)**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
